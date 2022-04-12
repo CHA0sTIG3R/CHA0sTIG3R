@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CHA0sTIG3R
-- 👀 I’m interested in Python programming and solving problems
+- 👀 I’m interested in programming and solving problems
 - 🌱 I’m currently learning Computer Systems Technology(CST) at Citytech
 - 📫 How to reach me: My email is Olowuhamzat@gmail.com
 
