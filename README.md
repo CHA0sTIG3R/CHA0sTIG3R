@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHA0sTIG3R
+- 👋 Hi, I’m Hamzat
 - 👀 I’m interested in programming and solving problems
 - 🌱 I’m currently learning Computer Systems Technology(CST) at Citytech
 - 📫 How to reach me: My email is Olowuhamzat@gmail.com
