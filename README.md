@@ -37,7 +37,7 @@ rate data via a REST API, queryable by filing status and income bracket.
 | Observability | OpenTelemetry, Grafana Cloud, Tempo |
 | Caching | Redis (Redis Cloud, manual RedisTemplate) |
 
-**Live:** [api.ratesatlas.com](https://api.ratesatlas.com)  
+**Live:** [api.ratesatlas.com](https://api.ratesatlas.com/swagger-ui/index.html)  
 **Repos:** [RateAtlas](https://github.com/CHA0sTIG3R/RateAtlas) · 
 [rateatlas-api](https://github.com/CHA0sTIG3R/rateatlas-api) · 
 [rateatlas-ingest](https://github.com/CHA0sTIG3R/rateatlas-ingest) · 
@@ -60,4 +60,4 @@ rate data via a REST API, queryable by filing status and income bracket.
 
 [olowuhamzat@gmail.com](mailto:olowuhamzat@gmail.com) · 
 [linkedin.com/in/hamzatolowu](https://www.linkedin.com/in/hamzatolowu) · 
-[api.ratesatlas.com](https://api.ratesatlas.com)
+[api.ratesatlas.com](https://api.ratesatlas.com/swagger-ui/index.html)
