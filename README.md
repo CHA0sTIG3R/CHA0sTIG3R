@@ -9,7 +9,7 @@ cloud-deployed APIs, and data pipelines that operate at scale.
 
 **Backend Systems**
 Spring Boot 3 REST APIs, Python ingestion pipelines, PostgreSQL schemas, 
-batch processing workflows, and event-driven integrations — deployed on 
+batch processing workflows, and event-driven integrations deployed on 
 AWS with Docker and automated via GitHub Actions CI/CD.
 
 **Observability & Infra**
@@ -18,7 +18,7 @@ environment-driven configuration, and production-grade deployment on AWS EC2.
 
 **Data Pipelines**
 Automated ingestion from external sources (IRS, MTA) using Python, 
-AWS Lambda, S3, and scheduled triggers — with validation, versioning, 
+AWS Lambda, S3, and scheduled triggers with validation, versioning, 
 and downstream API serving.
 
 ---
