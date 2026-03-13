@@ -1,36 +1,63 @@
-# 👋 Hey, I’m Hamzat Olowu
+# Hamzat Olowu
 
-I'm a Software Engineer with a passion for building intelligent systems, solving real-world problems, and creating reliable, maintainable code. I graduated with a B.Tech in Computer Systems Technology from CityTech (CUNY) and have worked on projects spanning backend development, data analysis, DevOps, and AI applications.
-
-## 💻 What I Work On
-
-- 🔧 **Full-Stack & Backend Engineering**  
-  I’ve built systems with Spring Boot, Flask, Django, and Node.js — often backed by PostgreSQL or S3 — and designed CI/CD pipelines with GitHub Actions and Docker.
-
-- 📊 **Data-Driven Solutions**  
-  I’ve analyzed NYC’s MTA delay data with Pandas, GeoPandas, and Seaborn, and worked with financial datasets to build a **Marginal Tax Rate Calculator** powered by Python and Java microservices.
-
-- 🤖 **AI & Automation Projects**  
-  I built an AI-powered blog writer using Hugging Face Transformers, deployed to Hugging Face Spaces with Docker — blending NLP with practical web interfaces.
-
-## 🔬 Interests
-
-- Cloud Infrastructure (AWS, GCP, S3, Docker)
-- Testing & CI/CD best practices (Pytest, JUnit, GitHub Actions)
-- Clean architecture and design patterns
-- Intelligent automation & AI for real-world use cases
-- DevOps tools (Redis, Kafka – exploring next)
-
-## 📫 Get in Touch
-
-- Email: [olowuhamzat@gmail.com](mailto:olowuhamzat@gmail.com)  
-- GitHub: [CHA0sTIG3R](https://github.com/CHA0sTIG3R)  
-- LinkedIn: [linkedin.com/in/hamzatolowu](https://www.linkedin.com/in/hamzatolowu)
+Backend & infrastructure engineer focused on distributed systems, 
+cloud-deployed APIs, and data pipelines that operate at scale.
 
 ---
 
-Thanks for visiting — I’m always open to collaboration or discussion on exciting projects!
-<!---
-CHA0sTIG3R/CHA0sTIG3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 What I Build
+
+**Backend Systems**
+Spring Boot 3 REST APIs, Python ingestion pipelines, PostgreSQL schemas, 
+batch processing workflows, and event-driven integrations — deployed on 
+AWS with Docker and automated via GitHub Actions CI/CD.
+
+**Observability & Infra**
+OpenTelemetry distributed tracing, Grafana Cloud dashboards, Redis caching, 
+environment-driven configuration, and production-grade deployment on AWS EC2.
+
+**Data Pipelines**
+Automated ingestion from external sources (IRS, MTA) using Python, 
+AWS Lambda, S3, and scheduled triggers — with validation, versioning, 
+and downstream API serving.
+
+---
+
+## 🚀 Featured Project — RateAtlas
+
+A production-deployed developer tool serving versioned US marginal tax 
+rate data via a REST API, queryable by filing status and income bracket.
+
+| Layer | Stack |
+|---|---|
+| API | Java 17, Spring Boot 3, PostgreSQL |
+| Ingest | Python, AWS Lambda, S3, EventBridge |
+| Infra | AWS EC2, Docker, Cloudflare |
+| CI/CD | GitHub Actions (separate build + deploy workflows) |
+| Observability | OpenTelemetry, Grafana Cloud, Tempo |
+| Caching | Redis (Redis Cloud, manual RedisTemplate) |
+
+**Live:** [api.ratesatlas.com](https://api.ratesatlas.com)  
+**Repos:** [RateAtlas](https://github.com/CHA0sTIG3R/RateAtlas) · 
+[rateatlas-api](https://github.com/CHA0sTIG3R/rateatlas-api) · 
+[rateatlas-ingest](https://github.com/CHA0sTIG3R/rateatlas-ingest) · 
+[rateatlas-frontend](https://github.com/CHA0sTIG3R/rateatlas-frontend)
+
+---
+
+## 🛠️ Core Stack
+
+**Languages:** Java · Python · TypeScript · SQL  
+**Frameworks:** Spring Boot · React · Node.js · Flask  
+**Infra & Cloud:** AWS (EC2, S3, Lambda) · Docker · GitHub Actions  
+**Data:** PostgreSQL · Redis · Pandas · GeoPandas  
+**Observability:** OpenTelemetry · Grafana Cloud · Tempo  
+**Testing:** JUnit · Pytest · Postman  
+
+---
+
+## 📫 Get in Touch
+
+[olowuhamzat@gmail.com](mailto:olowuhamzat@gmail.com) · 
+[linkedin.com/in/hamzatolowu](https://www.linkedin.com/in/hamzatolowu) · 
+[api.ratesatlas.com](https://api.ratesatlas.com)
