@@ -53,7 +53,7 @@ Next topics include routing, validation, table-driven tests, concurrency, contex
 
 **Languages:** Java · Python · SQL · TypeScript · Go
 
-**Backend:** Spring Boot · REST APIs · Flask · Kafka
+**Backend:** Spring Boot · REST APIs · Flask 
 
 **Data:** PostgreSQL · Redis · PySpark · Pandas
 
